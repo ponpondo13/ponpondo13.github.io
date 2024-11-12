@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: ponpondo13.github.io/sitemap.xml
+Sitemap: https://ponpondo13.github.io/sitemap.xml
